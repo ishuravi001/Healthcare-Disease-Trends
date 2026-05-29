@@ -1,0 +1,301 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable,Age_Group,Disease_Category
+Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive,Young Adult (18-40),Respiratory
+Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,Young Adult (18-40),Respiratory
+Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,Young Adult (18-40),Other
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,Young Adult (18-40),Respiratory
+Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive,Young Adult (18-40),Other
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,Young Adult (18-40),Respiratory
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,Young Adult (18-40),Metabolic
+Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive,Young Adult (18-40),Respiratory
+Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative,Young Adult (18-40),Other
+Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative,Young Adult (18-40),Mental Health
+Common Cold,No,No,No,No,29,Female,Low,Normal,Negative,Young Adult (18-40),Respiratory
+Diabetes,No,No,No,No,29,Male,Low,Normal,Negative,Young Adult (18-40),Metabolic
+Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative,Young Adult (18-40),Other
+Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative,Young Adult (18-40),Other
+Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative,Young Adult (18-40),Other
+Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive,Young Adult (18-40),Mental Health
+Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Young Adult (18-40),Cancer
+Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Young Adult (18-40),Cardiovascular
+Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive,Young Adult (18-40),Other
+Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,Young Adult (18-40),Infectious
+Eczema,No,Yes,Yes,No,30,Male,High,High,Negative,Young Adult (18-40),Other
+Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative,Young Adult (18-40),Other
+Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative,Young Adult (18-40),Infectious
+Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative,Young Adult (18-40),Cancer
+Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative,Young Adult (18-40),Other
+Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Young Adult (18-40),Other
+Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative,Young Adult (18-40),Other
+Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative,Young Adult (18-40),Other
+Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative,Young Adult (18-40),Other
+Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Young Adult (18-40),Other
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,Young Adult (18-40),Respiratory
+Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,Young Adult (18-40),Respiratory
+Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive,Young Adult (18-40),Mental Health
+Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive,Young Adult (18-40),Respiratory
+Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,Young Adult (18-40),Respiratory
+Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive,Young Adult (18-40),Other
+Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive,Young Adult (18-40),Cancer
+Eczema,Yes,No,No,No,30,Male,High,High,Positive,Young Adult (18-40),Other
+Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive,Young Adult (18-40),Cardiovascular
+Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive,Young Adult (18-40),Respiratory
+Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,Young Adult (18-40),Respiratory
+Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive,Young Adult (18-40),Other
+Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive,Young Adult (18-40),Cardiovascular
+Urinary Tract Infection (Uti),Yes,No,No,No,30,Female,Normal,Normal,Positive,Young Adult (18-40),Other
+Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative,Young Adult (18-40),Respiratory
+Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,Negative,Young Adult (18-40),Other
+Common Cold,Yes,No,Yes,Yes,31,Male,High,High,Positive,Young Adult (18-40),Respiratory
+Migraine,Yes,No,No,No,31,Female,Normal,Normal,Positive,Young Adult (18-40),Other
+Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,Positive,Young Adult (18-40),Respiratory
+Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,Negative,Young Adult (18-40),Other
+Asthma,No,Yes,Yes,Yes,35,Female,Normal,High,Negative,Young Adult (18-40),Respiratory
+Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Young Adult (18-40),Respiratory
+Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,Young Adult (18-40),Respiratory
+Atherosclerosis,No,No,Yes,No,35,Male,Normal,Normal,Negative,Young Adult (18-40),Cardiovascular
+Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Negative,Young Adult (18-40),Other
+Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,Negative,Young Adult (18-40),Respiratory
+Eczema,No,Yes,No,No,35,Male,High,Normal,Negative,Young Adult (18-40),Other
+Epilepsy,No,No,Yes,No,35,Male,High,High,Negative,Young Adult (18-40),Other
+Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,Negative,Young Adult (18-40),Cardiovascular
+Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative,Young Adult (18-40),Metabolic
+Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,Negative,Young Adult (18-40),Other
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Young Adult (18-40),Respiratory
+Psoriasis,Yes,No,No,No,35,Female,Normal,Low,Negative,Young Adult (18-40),Other
+Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,Negative,Young Adult (18-40),Other
+Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,Young Adult (18-40),Infectious
+Urinary Tract Infection (Uti),No,Yes,Yes,No,35,Male,High,High,Negative,Young Adult (18-40),Other
+Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,Young Adult (18-40),Respiratory
+Cirrhosis,No,No,Yes,No,35,Female,Normal,High,Positive,Young Adult (18-40),Other
+Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,Positive,Young Adult (18-40),Other
+Depression,No,No,Yes,No,35,Female,Normal,High,Positive,Young Adult (18-40),Mental Health
+Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,Positive,Young Adult (18-40),Other
+Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,Young Adult (18-40),Metabolic
+Kidney Cancer,No,No,Yes,No,35,Male,High,High,Positive,Young Adult (18-40),Cancer
+Liver Cancer,No,No,Yes,No,35,Female,High,High,Positive,Young Adult (18-40),Cancer
+Liver Disease,No,No,Yes,No,35,Male,High,High,Positive,Young Adult (18-40),Other
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,Young Adult (18-40),Infectious
+Migraine,No,Yes,Yes,No,35,Male,High,High,Positive,Young Adult (18-40),Other
+Migraine,Yes,No,No,No,35,Male,High,High,Positive,Young Adult (18-40),Other
+Pancreatitis,No,No,Yes,No,35,Male,Normal,High,Positive,Young Adult (18-40),Other
+Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,Positive,Young Adult (18-40),Other
+Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,Positive,Young Adult (18-40),Other
+Spina Bifida,No,No,Yes,No,35,Female,Normal,Normal,Positive,Young Adult (18-40),Other
+Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,Positive,Young Adult (18-40),Other
+Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,Positive,Young Adult (18-40),Other
+Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,Positive,Young Adult (18-40),Other
+Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,Negative,Young Adult (18-40),Other
+Depression,No,No,No,No,38,Female,Normal,High,Negative,Young Adult (18-40),Mental Health
+Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Negative,Young Adult (18-40),Other
+Influenza,No,No,No,No,38,Male,Normal,Normal,Negative,Young Adult (18-40),Respiratory
+Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,Negative,Young Adult (18-40),Other
+Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,Negative,Young Adult (18-40),Cancer
+Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,Negative,Young Adult (18-40),Other
+Osteoporosis,No,Yes,No,No,38,Female,Normal,High,Negative,Young Adult (18-40),Other
+Stroke,Yes,Yes,No,No,38,Female,High,Normal,Negative,Young Adult (18-40),Cardiovascular
+Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,Positive,Young Adult (18-40),Mental Health
+Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,Positive,Young Adult (18-40),Metabolic
+Migraine,Yes,Yes,No,No,38,Male,High,High,Positive,Young Adult (18-40),Other
+Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,Positive,Young Adult (18-40),Other
+Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Positive,Young Adult (18-40),Respiratory
+Klinefelter Syndrome,No,No,Yes,No,39,Female,Normal,Normal,Positive,Young Adult (18-40),Other
+Acne,No,No,Yes,No,40,Male,Normal,Normal,Negative,Young Adult (18-40),Other
+Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,Negative,Young Adult (18-40),Cancer
+Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,Negative,Young Adult (18-40),Respiratory
+Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,Negative,Young Adult (18-40),Other
+Diabetes,Yes,No,No,No,40,Female,High,High,Negative,Young Adult (18-40),Metabolic
+Glaucoma,No,No,Yes,No,40,Male,High,Normal,Negative,Young Adult (18-40),Other
+Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,Negative,Young Adult (18-40),Other
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Young Adult (18-40),Infectious
+Asthma,Yes,No,Yes,No,40,Male,Low,Normal,Positive,Young Adult (18-40),Respiratory
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,Young Adult (18-40),Respiratory
+Asthma,No,No,Yes,Yes,40,Male,High,High,Positive,Young Adult (18-40),Respiratory
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,Young Adult (18-40),Respiratory
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,Young Adult (18-40),Infectious
+Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,Positive,Young Adult (18-40),Cardiovascular
+"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,Positive,Young Adult (18-40),Other
+Fibromyalgia,No,No,Yes,No,40,Female,High,High,Positive,Young Adult (18-40),Other
+Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,Positive,Young Adult (18-40),Other
+Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,Positive,Young Adult (18-40),Other
+Hyperthyroidism,No,No,Yes,No,40,Male,High,High,Positive,Young Adult (18-40),Metabolic
+Hypoglycemia,No,No,Yes,No,40,Female,High,High,Positive,Young Adult (18-40),Metabolic
+Lymphoma,No,Yes,No,No,40,Female,Normal,High,Positive,Young Adult (18-40),Cancer
+Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,Positive,Young Adult (18-40),Respiratory
+Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,Positive,Young Adult (18-40),Other
+Psoriasis,Yes,No,No,No,40,Male,High,Normal,Positive,Young Adult (18-40),Other
+Psoriasis,No,Yes,No,No,40,Female,Normal,High,Positive,Young Adult (18-40),Other
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,Young Adult (18-40),Respiratory
+Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,Negative,Adult (41-60),Mental Health
+Common Cold,Yes,Yes,No,No,42,Female,High,High,Negative,Adult (41-60),Respiratory
+Depression,Yes,No,No,Yes,42,Male,High,Normal,Negative,Adult (41-60),Mental Health
+Influenza,No,Yes,No,No,42,Female,Normal,High,Negative,Adult (41-60),Respiratory
+Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,Negative,Adult (41-60),Cancer
+Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Adult (41-60),Cancer
+Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,Negative,Adult (41-60),Other
+Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Adult (41-60),Respiratory
+Migraine,Yes,Yes,Yes,No,42,Male,High,High,Negative,Adult (41-60),Other
+Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,Negative,Adult (41-60),Other
+Stroke,Yes,No,Yes,No,42,Male,Normal,Low,Negative,Adult (41-60),Cardiovascular
+Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,Negative,Adult (41-60),Other
+Diabetes,Yes,Yes,Yes,No,42,Male,High,Normal,Positive,Adult (41-60),Metabolic
+Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,Adult (41-60),Metabolic
+Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,Positive,Adult (41-60),Other
+Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,Positive,Adult (41-60),Respiratory
+Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,Negative,Adult (41-60),Other
+Autism Spectrum Disorder (Asd),No,No,Yes,No,45,Male,Normal,Normal,Negative,Adult (41-60),Other
+Crohn'S Disease,Yes,No,Yes,No,45,Male,High,Normal,Negative,Adult (41-60),Other
+Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,Adult (41-60),Infectious
+Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,Negative,Adult (41-60),Metabolic
+Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Adult (41-60),Cancer
+Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,Negative,Adult (41-60),Other
+Melanoma,Yes,No,Yes,No,45,Male,High,Normal,Negative,Adult (41-60),Cancer
+Migraine,No,No,No,No,45,Female,Low,Normal,Negative,Adult (41-60),Other
+Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,Negative,Adult (41-60),Cancer
+Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Adult (41-60),Other
+Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,Negative,Adult (41-60),Other
+Stroke,No,No,Yes,No,45,Male,Normal,Normal,Negative,Adult (41-60),Cardiovascular
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,Adult (41-60),Other
+Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,Negative,Adult (41-60),Other
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,Adult (41-60),Infectious
+Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Adult (41-60),Other
+Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Adult (41-60),Mental Health
+Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,Adult (41-60),Respiratory
+Cataracts,No,No,Yes,No,45,Female,Normal,High,Positive,Adult (41-60),Other
+Crohn'S Disease,No,No,Yes,No,45,Female,High,High,Positive,Adult (41-60),Other
+Crohn'S Disease,Yes,Yes,Yes,No,45,Female,High,High,Positive,Adult (41-60),Other
+Depression,No,No,Yes,No,45,Female,High,High,Positive,Adult (41-60),Mental Health
+Diabetes,Yes,No,Yes,No,45,Female,High,High,Positive,Adult (41-60),Metabolic
+Diabetes,No,Yes,Yes,No,45,Male,Normal,High,Positive,Adult (41-60),Metabolic
+Hypertension,Yes,No,Yes,No,45,Male,Normal,High,Positive,Adult (41-60),Cardiovascular
+Hypothyroidism,No,No,Yes,No,45,Female,High,High,Positive,Adult (41-60),Metabolic
+Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,Adult (41-60),Other
+Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,Adult (41-60),Other
+Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,Positive,Adult (41-60),Other
+Osteoporosis,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,Adult (41-60),Other
+Pneumocystis Pneumonia (Pcp),Yes,Yes,Yes,No,45,Female,High,High,Positive,Adult (41-60),Other
+Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,Positive,Adult (41-60),Respiratory
+Scoliosis,No,No,No,No,45,Female,High,High,Positive,Adult (41-60),Other
+Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,Positive,Adult (41-60),Other
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Adult (41-60),Infectious
+Hypertension,No,No,No,No,48,Female,Low,High,Negative,Adult (41-60),Cardiovascular
+Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,Adult (41-60),Metabolic
+Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,Negative,Adult (41-60),Other
+Anemia,No,No,Yes,No,50,Male,Normal,Normal,Negative,Adult (41-60),Other
+Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,Negative,Adult (41-60),Mental Health
+Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,Adult (41-60),Infectious
+Crohn'S Disease,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Adult (41-60),Other
+Crohn'S Disease,No,No,Yes,No,50,Male,Normal,High,Negative,Adult (41-60),Other
+Depression,No,Yes,Yes,No,50,Female,Low,Low,Negative,Adult (41-60),Mental Health
+Diabetes,No,Yes,No,No,50,Male,Normal,High,Negative,Adult (41-60),Metabolic
+Endometriosis,Yes,No,No,No,50,Male,High,Normal,Negative,Adult (41-60),Other
+Hypertension,No,Yes,No,No,50,Female,Normal,Low,Negative,Adult (41-60),Cardiovascular
+Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Adult (41-60),Metabolic
+Kidney Cancer,No,Yes,No,No,50,Male,Low,High,Negative,Adult (41-60),Cancer
+Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,Negative,Adult (41-60),Other
+Pancreatitis,No,Yes,No,No,50,Male,Low,High,Negative,Adult (41-60),Other
+Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,Negative,Adult (41-60),Other
+Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative,Adult (41-60),Other
+Sleep Apnea,Yes,No,Yes,Yes,50,Male,High,High,Negative,Adult (41-60),Other
+Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,Negative,Adult (41-60),Other
+Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,Positive,Adult (41-60),Respiratory
+Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,Positive,Adult (41-60),Respiratory
+Down Syndrome,No,No,Yes,No,50,Female,High,High,Positive,Adult (41-60),Other
+Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,Adult (41-60),Infectious
+Eczema,No,Yes,No,No,50,Female,High,High,Positive,Adult (41-60),Other
+Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,Positive,Adult (41-60),Other
+Klinefelter Syndrome,No,No,Yes,No,50,Female,Normal,Normal,Positive,Adult (41-60),Other
+Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,Positive,Adult (41-60),Cancer
+Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,Adult (41-60),Other
+Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,Positive,Adult (41-60),Cancer
+Pneumothorax,No,No,Yes,Yes,50,Female,High,High,Positive,Adult (41-60),Other
+Stroke,No,Yes,Yes,Yes,50,Male,High,High,Positive,Adult (41-60),Cardiovascular
+Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,Positive,Adult (41-60),Other
+Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative,Adult (41-60),Cardiovascular
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,Adult (41-60),Other
+Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative,Adult (41-60),Other
+Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative,Adult (41-60),Respiratory
+Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative,Adult (41-60),Respiratory
+Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative,Adult (41-60),Respiratory
+Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative,Adult (41-60),Metabolic
+Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative,Adult (41-60),Cancer
+Hiv/Aids,Yes,No,No,No,55,Female,High,High,Negative,Adult (41-60),Infectious
+Hypertension,No,Yes,No,No,55,Female,Normal,Low,Negative,Adult (41-60),Cardiovascular
+Liver Disease,No,Yes,Yes,No,55,Male,High,Low,Negative,Adult (41-60),Other
+Marfan Syndrome,No,No,Yes,No,55,Male,High,High,Negative,Adult (41-60),Other
+Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,Negative,Adult (41-60),Other
+Osteoporosis,No,No,Yes,No,55,Male,High,Normal,Negative,Adult (41-60),Other
+Parkinson'S Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,Adult (41-60),Other
+Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,Positive,Adult (41-60),Mental Health
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,Adult (41-60),Cardiovascular
+Hemorrhoids,No,No,No,No,55,Female,High,High,Positive,Adult (41-60),Other
+Hypertension,Yes,No,Yes,No,55,Male,High,Normal,Positive,Adult (41-60),Cardiovascular
+Hypothyroidism,No,No,Yes,No,55,Female,High,High,Positive,Adult (41-60),Metabolic
+Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,Positive,Adult (41-60),Other
+Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,Positive,Adult (41-60),Other
+Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,Positive,Adult (41-60),Other
+Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,Adult (41-60),Other
+Polycystic Ovary Syndrome (Pcos),Yes,Yes,No,No,55,Female,Normal,Normal,Positive,Adult (41-60),Other
+Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female,High,High,Positive,Adult (41-60),Other
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Adult (41-60),Infectious
+Influenza,Yes,Yes,Yes,Yes,56,Male,High,High,Positive,Adult (41-60),Respiratory
+Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,Negative,Adult (41-60),Respiratory
+Breast Cancer,No,No,Yes,No,60,Male,High,High,Negative,Adult (41-60),Cancer
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,Adult (41-60),Cardiovascular
+Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative,Adult (41-60),Metabolic
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,Adult (41-60),Infectious
+Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative,Adult (41-60),Other
+Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative,Adult (41-60),Other
+Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative,Adult (41-60),Other
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,Adult (41-60),Other
+Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative,Adult (41-60),Other
+Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,Adult (41-60),Respiratory
+Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,Positive,Adult (41-60),Other
+Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,Positive,Adult (41-60),Other
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,Adult (41-60),Infectious
+Hypertension,No,No,Yes,No,60,Female,High,Normal,Positive,Adult (41-60),Cardiovascular
+Hypertension,Yes,No,Yes,No,60,Male,High,Normal,Positive,Adult (41-60),Cardiovascular
+Hypertension,No,No,No,No,60,Female,High,High,Positive,Adult (41-60),Cardiovascular
+Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Adult (41-60),Cancer
+Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,Adult (41-60),Other
+Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,Positive,Adult (41-60),Other
+Pancreatitis,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Adult (41-60),Other
+Parkinson'S Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,Adult (41-60),Other
+Prader-Willi Syndrome,No,No,Yes,No,60,Female,Normal,Normal,Positive,Adult (41-60),Other
+Rheumatoid Arthritis,No,No,Yes,No,60,Female,High,High,Positive,Adult (41-60),Other
+Thyroid Cancer,No,No,Yes,No,60,Female,High,High,Positive,Adult (41-60),Cancer
+Tuberculosis,Yes,Yes,Yes,No,60,Female,High,High,Positive,Adult (41-60),Respiratory
+Bladder Cancer,No,No,Yes,No,65,Male,Normal,Normal,Negative,Senior (61+),Cancer
+Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative,Senior (61+),Metabolic
+Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative,Senior (61+),Other
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,Senior (61+),Cardiovascular
+Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative,Senior (61+),Other
+Urinary Tract Infection (Uti),Yes,No,Yes,No,65,Male,High,Normal,Negative,Senior (61+),Other
+Alzheimer'S Disease,No,Yes,No,No,65,Male,Normal,High,Positive,Senior (61+),Other
+Alzheimer'S Disease,No,No,Yes,No,65,Female,High,High,Positive,Senior (61+),Other
+Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive,Senior (61+),Respiratory
+Chronic Obstructive Pulmonary Disease (Copd),Yes,No,Yes,Yes,65,Female,High,High,Positive,Senior (61+),Respiratory
+Dementia,No,No,Yes,No,65,Female,High,High,Positive,Senior (61+),Other
+Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive,Senior (61+),Metabolic
+Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive,Senior (61+),Other
+Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,Senior (61+),Cancer
+Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,Senior (61+),Respiratory
+Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive,Senior (61+),Respiratory
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,Senior (61+),Infectious
+Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive,Senior (61+),Other
+Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive,Senior (61+),Cardiovascular
+Alzheimer'S Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Senior (61+),Other
+Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative,Senior (61+),Other
+Chronic Obstructive Pulmonary Disease (Copd),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,Senior (61+),Respiratory
+Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative,Senior (61+),Other
+Parkinson'S Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative,Senior (61+),Other
+Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative,Senior (61+),Cancer
+Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative,Senior (61+),Mental Health
+Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive,Senior (61+),Other
+Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive,Senior (61+),Other
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Senior (61+),Cardiovascular
+Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive,Senior (61+),Cancer
+Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive,Senior (61+),Other
+Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive,Senior (61+),Other
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,Senior (61+),Cardiovascular
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,Senior (61+),Cardiovascular
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Senior (61+),Cardiovascular
