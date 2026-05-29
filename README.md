@@ -41,7 +41,8 @@ Healthcare analysts and clinical teams need to understand:
 | Version control | GitHub |
 
 ---
-
+## Dashboard
+![Dashboard Preview](dashboard_preview.png)
 ## Key Findings
 
 1. **Asthma has the highest positive outcome rate (75%)** among top diseases — patients with asthma are significantly more likely to test positive, suggesting strong clinical presentation.
